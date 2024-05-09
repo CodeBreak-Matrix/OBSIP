@@ -3,8 +3,12 @@ This repository contains all the python source files of all tasks provided by Oa
 
 Task 1: BMI calculator
 Status: Completed
-Completion Date: 09/05/2024
+Completion Date: 01/05/2024
 
 Task 2: Weather App
 Status: Completed
+Completion Date: 06/05/2024
+
+Task 3: Password Gen App
+Stats: Completed
 Completion Date: 09/05/2024
